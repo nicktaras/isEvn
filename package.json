@@ -1,0 +1,30 @@
+{
+  "name": "isevenvalue",
+  "version": "1.0.0",
+  "description": "A package that returns true if a numeric value is even and false if it is not",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicktaras/isEven.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "even",
+    "odd",
+    "check",
+    "javascript"
+  ],
+  "author": "Nicholas Taras <nicktaras83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicktaras/isEven/issues"
+  },
+  "homepage": "https://github.com/nicktaras/isEven#readme",
+  "devDependencies": {
+    "tap": "^14.0.0"
+  }
+}
