@@ -1,6 +1,6 @@
 {
   "name": "isevn",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A package that returns true if a numeric value is even and false if it is not",
   "main": "index.js",
   "scripts": {
