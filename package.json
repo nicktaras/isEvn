@@ -1,6 +1,6 @@
 {
   "name": "isevn",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A package that returns true if a numeric value is even and false if it is not",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/nicktaras/isEven#readme",
   "devDependencies": {
-    "tap": "^14.0.0"
+    "tap": "^14.6.1"
   }
 }
